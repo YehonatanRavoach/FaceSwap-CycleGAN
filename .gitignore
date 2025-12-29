@@ -13,6 +13,15 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-
-
 History/
+
+# Ignore all results by default
+results_A2B/*
+results_B2A/*
+
+<<<<<<< HEAD
+History/
+
+# Allow representative samples only
+!results_A2B/fakeB_0209.png
+!results_B2A/fakeA_0293.png
