@@ -2,11 +2,6 @@
 datasets/
 raw_data/
 
-# Training outputs
-samples/
-results_A2B/
-results_B2A/
-
 # Checkpoints and weights
 checkpoints/
 *.pth
