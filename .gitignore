@@ -19,9 +19,14 @@ History/
 results_A2B/*
 results_B2A/*
 
-<<<<<<< HEAD
 History/
 
 # Allow representative samples only
 !results_A2B/fakeB_0209.png
 !results_B2A/fakeA_0293.png
+
+# Samples: ignore everything, allow only representative epochs
+samples/*
+!samples/sample_epoch_1.png
+!samples/sample_epoch_60.png
+!samples/sample_epoch_105.png
