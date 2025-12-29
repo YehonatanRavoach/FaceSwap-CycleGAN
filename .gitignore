@@ -1,0 +1,23 @@
+# Datasets (large / private)
+datasets/
+raw_data/
+
+# Training outputs
+samples/
+results_A2B/
+results_B2A/
+
+# Checkpoints and weights
+checkpoints/
+*.pth
+
+# IDE / Python
+.idea/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+History/
